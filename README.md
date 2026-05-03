@@ -1,10 +1,8 @@
-# Chanhee Lee (@nopublicsounds)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=nopublicsounds&strokeWidth=2&section=header&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
-I build small, focused tools—mostly around **terminal UX**
+<h1>Lee Chan-Hee | 이찬희</h1>
 
----
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000" />
-</p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876)](https://solved.ac/dlcksgml9876)  
+
+
+ 
